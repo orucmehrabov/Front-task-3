@@ -1,0 +1,125 @@
+#first{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 10rem 0;
+    background-position: center;
+    background-size: cover;
+}
+
+#first h1{
+    color: #212529;
+    font-size: 64px;
+}
+
+#first h3{
+    font-size: 26px;
+    color: #212529;
+    margin-bottom: 60px;
+}
+
+#first a{
+    font-size: 16px;
+    background-color: #1D809F;
+    text-decoration: none;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+#first a:hover{
+    background-color:#2b5379;
+}
+
+#second{
+    text-align: center;
+    padding:10rem
+}
+
+#second h2{
+    color: #212529;
+    font-weight: bolder;
+    font-size: 30;
+
+}
+
+#second p{
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 60px;
+}
+
+#second a{
+    color:#1D809F;
+    font-weight: 300;
+    margin-bottom: 60px;
+}
+
+#what{
+    color: #fff !important;
+    background-color: #212529;
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin:40px 0;
+}
+
+#third{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 240px;
+    background-position: center;
+    background-size: cover;
+}
+
+#third h2{
+    font-size: 85px;
+    font-weight: 700px;
+    color: #212529;
+}
+
+#third a{
+    color: #fff;
+    background-color: #1D809F;
+    border-radius: 5px;
+    padding:20px 40px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#fourth{
+    background-color: #1D809F;
+    text-align: center;
+    margin: 0px;
+    padding: 120px;
+}
+
+#fourth .top{
+    color:#fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.buttons .whitebttn{
+    color: black;
+    background-color: #fff;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.buttons .blackbttn{
+    color: white;
+    background-color: #212529;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.fourth{
+    width: 100px;
+    height: 100px;
+}
